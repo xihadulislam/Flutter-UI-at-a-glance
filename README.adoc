@@ -40,10 +40,10 @@ toc::[]
 |Name |Author |Repository |Demo
 
 // start from here
-|100 Days Of Flutter Challenge
+|Chat GPT Flutter
 |https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|https://github.com/xihadulislam/chat_gpt_flutter[chat_gpt_flutter]
+|<img src="https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/text.png" alt="alt home" style="width:40%;height:50">
 // end of a table
 
 

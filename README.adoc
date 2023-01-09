@@ -16,7 +16,7 @@ toc::[]
 
 = A collection for flutter dev
 
-=== Apps
+== Apps
 
 |===
 |Name |Author |Repository |Demo

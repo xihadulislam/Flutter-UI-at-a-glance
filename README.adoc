@@ -17,7 +17,7 @@ toc::[]
 == UI
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -35,7 +35,7 @@ toc::[]
 == Apps
 [options="header", cols="40,20,30"]
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |Chat GPT Flutter
@@ -63,7 +63,7 @@ toc::[]
 == Web
 
 |===
-|Name |Author |Repository 
+|Description |Author |Repository 
 // start from here
 |100 Days Of Flutter Challenge
 |https://github.com/xihadulislam[xihadulislam]
@@ -80,7 +80,7 @@ toc::[]
 == Games
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -98,7 +98,7 @@ toc::[]
 == Templates
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -114,7 +114,7 @@ toc::[]
 == Animation
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -131,7 +131,7 @@ toc::[]
 == Challenge
 
 |===
-|Name |Author |Repository 
+|Description |Author |Repository 
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -151,7 +151,7 @@ toc::[]
 == ECommerce
 
 |===
-|Name |Author |Repository 
+|Description |Author |Repository 
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -168,7 +168,7 @@ toc::[]
 == Food
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -185,7 +185,7 @@ toc::[]
 == Movie
 
 |===
-|Name |Author |Repository 
+|Description |Author |Repository 
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -201,7 +201,7 @@ toc::[]
 == Chat
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -218,7 +218,7 @@ toc::[]
 == Maps
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -235,7 +235,7 @@ toc::[]
 == Login
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -250,7 +250,7 @@ toc::[]
 == Images
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -266,7 +266,7 @@ toc::[]
 == Video
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -282,7 +282,7 @@ toc::[]
 == Tools
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -298,7 +298,7 @@ toc::[]
 == Widgets
 
 |===
-|Name |Author |Repository
+|Description |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
@@ -315,7 +315,7 @@ toc::[]
 //
 // === Web
 // |===
-// |Name |Author |Repository
+// |Description |Author |Repository
 //
 // // start from here
 // |100 Days Of Flutter Challenge

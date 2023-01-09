@@ -324,7 +324,7 @@ toc::[]
 {nbsp} +
 {nbsp} +
 
-== Contributions & Licensed
+= Contributions & Licensed
 
 === -> Contribute
 

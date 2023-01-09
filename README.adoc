@@ -37,14 +37,14 @@ toc::[]
 == Apps
 
 |===
-|Name |Author |Repository |Demo
+|Name |Author |Repository
 
 // start from here
 |Chat GPT Flutter
 |https://github.com/xihadulislam[xihadulislam]
 |https://github.com/xihadulislam/chat_gpt_flutter[chat_gpt_flutter]
-|image:https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/text.png[width=200,height=480]
 
+//|image:https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/text.png[width=200,height=480]
 // end of a table
 
 
@@ -52,7 +52,6 @@ toc::[]
 |A Flutter app that displays stock market data and allows users to track their favorite stocks
 |https://github.com/Captured-Heart[Captured-Heart]
 |https://github.com/xihadulislam/QwikCountr-Tech-assessment[QwikCountr-Tech-assessment]
-|image:https://github.com/Captured-Heart/QwikCountr-Tech-assessment/blob/Marcel_QwikCountr/screenshots/dark03.png[width=200,height=480]
 
 // end of a table
 

@@ -12,12 +12,8 @@ List of developers to help tech companies to find the best resources.
 toc::[]
 
 = A Collection For Flutter Dev 💖
-
-
 {nbsp} +
 {nbsp} +
-
-
 == UI
 
 |===

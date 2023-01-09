@@ -23,7 +23,7 @@ toc::[]
 |1
 |A Flutter app showcasing a couple of cool looking screens
 |https://github.com/rajayogan[rajayogan]
-|https://github.com/xihadulislam/flutterui-cappuccino[flutterui-cappuccino]
+|https://github.com/rajayogan/flutterui-cappuccino[flutterui-cappuccino]
 // end of a table
 
 |===
@@ -49,7 +49,7 @@ toc::[]
 |2
 |A Flutter app that displays stock market data and allows users to track their favorite stocks
 |https://github.com/Captured-Heart[Captured-Heart]
-|https://github.com/xihadulislam/QwikCountr-Tech-assessment[QwikCountr-Tech-assessment]
+|https://github.com/Captured-Heart/QwikCountr-Tech-assessment[QwikCountr-Tech-assessment]
 
 // end of a table
 

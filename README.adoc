@@ -48,6 +48,16 @@ toc::[]
 // end of a table
 
 
+// start from here
+|A Flutter app that displays stock market data and allows users to track their favorite stocks
+|https://github.com/Captured-Heart[Captured-Heart]
+|https://github.com/xihadulislam/QwikCountr-Tech-assessment[QwikCountr-Tech-assessment]
+|https://github.com/Captured-Heart/QwikCountr-Tech-assessment/blob/Marcel_QwikCountr/screenshots/dark03.png[width=200,height=480]
+
+// end of a table
+
+
+
 |===
 
 {nbsp} +

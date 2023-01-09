@@ -17,11 +17,12 @@ toc::[]
 === Apps
 
 |===
-|Name |Author |Repository
+|Name |Author |Repository |Demo
 
 // start from here
 |100 Days Of Flutter Challenge
 |https://github.com/xihadulislam[xihadulislam]
+|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
 |https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
 // end of a table
 

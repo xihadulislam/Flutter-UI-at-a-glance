@@ -14,8 +14,6 @@ toc::[]
 {nbsp} +
 {nbsp} +
 
-== Developers based on division of bangladesh
-
 === Apps
 
 |===

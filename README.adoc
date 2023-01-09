@@ -17,15 +17,13 @@ toc::[]
 == UI
 
 |===
-|Name |Author |Repository |Demo
+|Name |Author |Repository
 
 // start from here
 |100 Days Of Flutter Challenge
 |https://github.com/xihadulislam[xihadulislam]
 |https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
 // end of a table
-
 
 |===
 
@@ -49,7 +47,7 @@ toc::[]
 
 
 // start from here
-|A Flutter app that displays stock market data and allows users to track their favorite stocks
+|A Flutter app that displays stock market data \nand allows users to track their favorite stocks
 |https://github.com/Captured-Heart[Captured-Heart]
 |https://github.com/xihadulislam/QwikCountr-Tech-assessment[QwikCountr-Tech-assessment]
 

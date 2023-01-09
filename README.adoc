@@ -33,7 +33,7 @@ toc::[]
 {nbsp} +
 
 == Apps
-[cols="50,20,30"]
+[cols="40,20,30"]
 |===
 |Name |Author |Repository
 

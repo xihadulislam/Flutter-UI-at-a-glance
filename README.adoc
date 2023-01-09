@@ -17,9 +17,10 @@ toc::[]
 == UI
 
 |===
-|Description |Author |Repository
+|No |Description |Author |Repository
 
 // start from here
+|1
 |A Flutter app showcasing a couple of cool looking screens
 |https://github.com/rajayogan[rajayogan]
 |https://github.com/xihadulislam/flutterui-cappuccino[flutterui-cappuccino]

@@ -47,7 +47,9 @@ toc::[]
 
 
 // start from here
-|A Flutter app that displays stock market data and allows users to track their favorite stocks
+|A Flutter app that displays stock market data 
+
+and allows users to track their favorite stocks
 |https://github.com/Captured-Heart[Captured-Heart]
 |https://github.com/xihadulislam/QwikCountr-Tech-assessment[QwikCountr-Tech-assessment]
 

@@ -20,9 +20,9 @@ toc::[]
 |Description |Author |Repository
 
 // start from here
-|100 Days Of Flutter Challenge
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|A Flutter app showcasing a couple of cool looking screens
+|https://github.com/rajayogan[rajayogan]
+|https://github.com/xihadulislam/flutterui-cappuccino[flutterui-cappuccino]
 // end of a table
 
 |===

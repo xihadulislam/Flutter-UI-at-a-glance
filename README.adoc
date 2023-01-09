@@ -106,7 +106,7 @@ toc::[]
 |1
 |A Complete Mobile Banking Template(Dark+Light Theme) built with with Flutter
 |https://github.com/YOUNESSMOUATASSIM[YOUNESSMOUATASSIM]
-|https://github.com/YOUNESSMOUATASSIM/digital-banking-app-mobile-sidedigital-banking-app-mobile-side]
+|https://github.com/YOUNESSMOUATASSIM/digital-banking-app-mobile-side[digital-banking-app-mobile-side]
 // end of a table
 
 |===

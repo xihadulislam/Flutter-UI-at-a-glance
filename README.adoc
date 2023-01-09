@@ -34,7 +34,7 @@ toc::[]
 {nbsp} +
 
 == Apps
-[options="header", cols="40,20,30"]
+
 |===
 |No |Description |Author |Repository
 
@@ -43,10 +43,7 @@ toc::[]
 |Chat GPT Flutter
 |https://github.com/xihadulislam[xihadulislam]
 |https://github.com/xihadulislam/chat_gpt_flutter[chat_gpt_flutter]
-
-//|image:https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/text.png[width=200,height=480]
 // end of a table
-
 
 // start from here
 |2

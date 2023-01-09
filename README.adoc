@@ -43,7 +43,8 @@ toc::[]
 |Chat GPT Flutter
 |https://github.com/xihadulislam[xihadulislam]
 |https://github.com/xihadulislam/chat_gpt_flutter[chat_gpt_flutter]
-|<img src="https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/text.png" alt="alt home" style="width:40%;height:50">
+|image:https://github.com/xihadulislam/chat_gpt_flutter/blob/master/ss/text.png
+
 // end of a table
 
 

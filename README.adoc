@@ -66,9 +66,9 @@ toc::[]
 |No |Description |Author |Repository 
 // start from here
 |1
-|100 Days Of Flutter Challenge
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|Landing page for Starbucks build with flutter
+|https://github.com/ShishirRijal[ShishirRijal]
+|https://github.com/ShishirRijal/Starbucks-LandingPage[Starbucks-LandingPage]
 // end of a table
 
 

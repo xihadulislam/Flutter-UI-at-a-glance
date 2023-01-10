@@ -121,9 +121,9 @@ toc::[]
 
 // start from here
 |1
-|100 Days Of Flutter Challenge
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|An animated car control app which uses Flutter
+|https://github.com/resulcay[resulcay]
+|https://github.com/resulcay/animated_tesla_car_control_app[animated_tesla_car_control_app]
 // end of a table
 
 |===

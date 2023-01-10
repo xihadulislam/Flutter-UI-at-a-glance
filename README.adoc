@@ -241,9 +241,9 @@ toc::[]
 
 // start from here
 |1
-|100 Days Of Flutter Challenge
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|Google Map Services in connection with Flutter on Android, iOS and Web platforms
+|https://github.com/YakivGalkin[YakivGalkin]
+|https://github.com/YakivGalkin/flutterbase-taxi[flutterbase-taxi]
 // end of a table
 
 |===
@@ -258,10 +258,10 @@ toc::[]
 |No |Description |Author |Repository
 
 // start from here
-|100 Days Of Flutter Challenge
 |1
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|A simple Ui for login & sign-up page with email and password also google-sign-in
+|https://github.com/KhubaibJamal[KhubaibJamal]
+|https://github.com/KhubaibJamal/Firebase-Flutter-Login-SignUp-Google-Auth[Firebase-Flutter-Login-SignUp-Google-Auth]
 // end of a table
 
 |===
@@ -274,10 +274,10 @@ toc::[]
 |No |Description |Author |Repository
 
 // start from here
-|100 Days Of Flutter Challenge
 |1
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|An image picker similar with Instagram, supports multi picking, crop and aspect ratio
+|https://github.com/LeGoffMael[LeGoffMael]
+|https://github.com/LeGoffMael/insta_assets_picker[insta_assets_picker]
 // end of a table
 
 |===
@@ -291,10 +291,10 @@ toc::[]
 |No |Description |Author |Repository
 
 // start from here
-|100 Days Of Flutter Challenge
 |1
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|A basic file manager based video player app where you can watch videos from your phone's file manager
+|https://github.com/munemsarker[munemsarker]
+|https://github.com/munemsarker/flutter-video-player[flutter-video-player]
 // end of a table
 
 |===

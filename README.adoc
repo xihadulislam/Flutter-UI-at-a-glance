@@ -7,7 +7,7 @@
 
 (C) 2022 The original author @XihadIslam.
 
-List of developers to help tech companies to find the best resources.
+
 
 toc::[]
 

@@ -188,9 +188,9 @@ toc::[]
 
 // start from here
 |1
-|100 Days Of Flutter Challenge
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|Flutter Food Delivery Application Design
+|https://github.com/AmjithJayarajan[AmjithJayarajan]
+|https://github.com/AmjithJayarajan/food_delivery_ui_flutter[food_delivery_ui_flutter]
 // end of a table
 
 |===
@@ -206,9 +206,9 @@ toc::[]
 
 // start from here
 |1
-|100 Days Of Flutter Challenge
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|Movie Ticketing App Animation Using Flutter
+|https://github.com/Mdeepu[Mdeepu]
+|https://github.com/Mdeepu/Movie-ticket[Movie-ticket]
 // end of a table
 
 |===
@@ -223,9 +223,9 @@ toc::[]
 
 // start from here
 |1
-|100 Days Of Flutter Challenge
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|A Flutter package that allows you to integrate Chat View with highly customization options
+|https://github.com/necro304[necro304]
+|https://github.com/necro304/chatview_flutter[chatview_flutter]
 // end of a table
 
 |===

@@ -308,10 +308,10 @@ toc::[]
 |No |Description |Author |Repository
 
 // start from here
-|100 Days Of Flutter Challenge
 |1
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|GUI fetch tool written in Flutter for Linux
+|https://github.com/FlafyDev[FlafyDev]
+|https://github.com/FlafyDev/guifetch[guifetch]
 // end of a table
 
 |===
@@ -325,10 +325,10 @@ toc::[]
 |No |Description |Author |Repository
 
 // start from here
-|100 Days Of Flutter Challenge
 |1
-|https://github.com/xihadulislam[xihadulislam]
-|https://github.com/xihadulislam/100-Days-Of-Flutter[100-Days-Of-Flutter]
+|A set of costum_widgets flutter widgets to help you save time building your layouts
+|https://github.com/block7code[block7code]
+|https://github.com/block7code/costum_widgets[costum_widgets]
 // end of a table
 
 |===

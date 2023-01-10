@@ -126,6 +126,16 @@ toc::[]
 |https://github.com/resulcay/animated_tesla_car_control_app[animated_tesla_car_control_app]
 // end of a table
 
+// start from here
+|2
+|Simple and beautiful smooth animated charts for flutter
+|https://github.com/merixstudio[merixstudio]
+|https://github.com/merixstudio/mrx-flutter-charts[mrx-flutter-charts]
+// end of a table
+
+
+
+
 |===
 
 
